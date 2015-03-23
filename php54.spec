@@ -91,7 +91,7 @@ Name: %{?scl_prefix}php
 %else
 Name: php54
 %endif
-Version: 5.4.38
+Version: 5.4.39
 Release: 1%{?rcver:.%{rcver}}%{?dist}
 # All files licensed under PHP version 3.01, except
 # Zend is licensed under Zend
